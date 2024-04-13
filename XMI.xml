@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMI xmlns:ns0="org.omg.xmi.namespace.UML" xmlns:UML="org.omg.xmi.namespace.UML" xmi.version="2.1" timestamp="2024-04-13T16:56:37.074602">
+  <XMI.header>
+    <XMI.documentation>
+      <XMI.exporter>Graphical Code Architecture Program</XMI.exporter>
+      <XMI.exporterVersion>v0.1</XMI.exporterVersion>
+    </XMI.documentation>
+  </XMI.header>
+  <XMI.content>
+    <ns0:Class xmi.id="_1" name="Class Name"/>
+    <ns0:Class xmi.id="_2" name="Class Name"/>
+    <ns0:Class xmi.id="_3" name="Class Name">
+      <ns0:Attribute xmi.id="_11" name="att1" type="att1Tyoe"/>
+      <ns0:Operation xmi.id="_12" name="meth1"/>
+      <ns0:Operation xmi.id="_13" name="meth2"/>
+      <ns0:Operation xmi.id="_14" name="meth3"/>
+      <ns0:Operation xmi.id="_15" name="meth4"/>
+      <ns0:Generalization xmi.id="_3i" parent="_4" child="_3"/>
+    </ns0:Class>
+    <ns0:Class xmi.id="_4" name="Class Name">
+      <ns0:Attribute xmi.id="_5" name="attr1" type="String"/>
+      <ns0:Attribute xmi.id="_6" name="attr2" type="Int"/>
+      <ns0:Operation xmi.id="_7" name="thisMethod2"/>
+      <ns0:Operation xmi.id="_8" name="thisMethod"/>
+      <ns0:Operation xmi.id="_9" name="thisMethod3"/>
+      <ns0:Generalization xmi.id="_4i" parent="_4" child="_4"/>
+      <ns0:Operation xmi.id="_10" name="thisMethod4"/>
+    </ns0:Class>
+  </XMI.content>
+</XMI>
