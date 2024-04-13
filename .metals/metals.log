@@ -573,3 +573,5 @@ create table fingerprints(
 11:41:38.448 [pool-1-thread-4] DEBUG org.flywaydb.core.FlywayExecutor -- Memory usage: 48 of 100M
 2024.04.12 11:41:38 WARN  no build tool detected in workspace 'C:\Users\William\Documents\GitHub\GCAP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2024.04.12 11:41:38 WARN  Build server is not auto-connectable.
+Apr 13, 2024 12:02:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
